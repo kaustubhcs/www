@@ -8,5 +8,9 @@ Bucket testing
 */
 echo "KTB's PHP script<br>";
 $x = 5;
-ECHO $x ."<br>";
+EcHo $x ."<br>";
+
+
+
+
 ?>
