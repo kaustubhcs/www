@@ -6,7 +6,7 @@
 /*
 Bucket testing
 */
-echo "KTB's PHP script";
+echo "KTB's PHP script<br>";
 $x = 5;
-ECHO $x;
+ECHO $x ."<br>";
 ?>
