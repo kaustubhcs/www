@@ -9,8 +9,9 @@ Bucket testing
 echo "KTB's PHP script<br>";
 $x = 5;
 EcHo $x ."<br>";
+$text = "text";
 
-
+echo $x . $text;
 
 
 ?>
